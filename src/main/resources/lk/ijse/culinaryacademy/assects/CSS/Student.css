@@ -1,0 +1,12 @@
+.pane{
+    /*-fx-background-color:  #D2E0FB;*/
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+}
+.button{
+    -fx-background-color: #9ABF80;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+}
+
